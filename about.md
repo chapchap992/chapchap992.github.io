@@ -1,24 +1,26 @@
 ---
-layout: about 
+layout: about
 title: About Me
 description: >
-  
+
 menu: true
 order: 3
 ---
 
 * * *
-## Personal Data 
+## Personal Data
 ---
 > Name: 장완선 (Wan-Seon Jang)
 >
 > Mail: chapchap992@gmail.com
 >
 > Github : <a href="https://github.com/chapchap992">https://github.com/chapchap992</a>
+>
+> Website : <a href="https://github.com/chapchap992">웹사이트 바로가기</a>
 
 ## Career
 ---
-> * December 04, 2017 – November 30, 2020  ezssoft 디자인팀 과장 (퇴사) 
+> * December 04, 2017 – November 30, 2020  ezssoft 디자인팀 과장 (퇴사)
 
 ## Project
 ---
@@ -26,8 +28,8 @@ order: 3
 >
 * 2020
     + 경원알미늄 건축 플랫폼 '아키오션' 기획안 제작
-    + KRX 그린케미칼 홈페이지 리뉴얼 
-    + KRX 그린케미칼 채용 홈페이지 구축 및 면접평가 프로세스 제작 
+    + KRX 그린케미칼 홈페이지 리뉴얼
+    + KRX 그린케미칼 채용 홈페이지 구축 및 면접평가 프로세스 제작
     + 그 외 6개 구축작업
 * 2019
     + 농업중개사 B2B 계약재배 플랫폼 구축
@@ -53,6 +55,5 @@ order: 3
 > * May.2017 ~ Dec.2017 그린컴퓨터아트학원
 >    + 인터렉티브 ui/ux 스마트웹디자인 - 900
 >
-> * Mar.2011 ~ Feb.2015 : 공주대학교 
+> * Mar.2011 ~ Feb.2015 : 공주대학교
 >    + Major : Social Welfare
-
