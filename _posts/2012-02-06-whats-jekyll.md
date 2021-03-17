@@ -9,16 +9,25 @@ comments: false
 published: true
 ---
 
-[Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
+![project2017-02](/assets/img/project2017-02.jpg)
+## 1. 프로젝트 소개
+&nbsp; 특이한 구조의 홈페이지를 원했고, 그 요구사항에 반영하여 제작되었습니다. 프로젝트가 몇 번 딜레이가 되었고, 그 와중에 전시장을 개설하면서 다시 진행된 프로젝트입니다. 전시장 도면을 바탕으로 전시장별로 구경할 수 있게 도면과 이미지를 결합한 페이지를 제작하여 사용자의 이해를 높혔습니다.
 
-**NOTE**: This post is outdated and only included for legacy reasons.
-See the [Documentation][docs]{:.heading.flip-title} for up-to-date instructions.
-{:.message}
+#### + 기간 2017-11-30 ~ 2018-02-28
 
-  > Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.
+- PM, 기획, 디자인, 퍼블리싱
+- 전시장 도면을 웹으로
 
-It's an immensely useful tool and one we encourage you to use here with Hyde.
+### 2. 프로젝트이야기
+&nbsp; 입사 전에 계약해 둔 프로젝트였고, 첫 번째 프로젝트가 끝나자마자 받은 두 번째 프로젝트였다. 인테리어 업체였는데, 사진을 보내주고선 특이한 구조의 홈페이지를 제작해달라는 말이었다. 그래서 실험적인 디자인을 선보이고 나중에 코딩하면서 그런 디자인을 한 나를 욕했다. 게다가 대부분 회사의 프로젝트들은 맞춤형이기 때문에 메인 비주얼은 기본적으로 고객이 직접 수정이 가능하게끔 프로그램화한다는 것을 깨달았고 그때부터 어떤 부분이 프로그램화가 될 거라면 디자인적인 요소를 조금 포기하더라도 편리성을 주목적으로 잡아 작업하는 게 버릇이 되었다.
 
-Find out more by [visiting the project on GitHub](https://github.com/mojombo/jekyll).
+ &nbsp; 프로젝트는 하다가 담당자가 퇴사하면서 흐지부지 돼버리고, 기억 속에서 사라지다가 18년도 중쯤 재개하게 된다. 갑자기 온 연락과 급하다는 말에 지금 나도 급한데... 라며 미루고 싶었지만 잔금을 받기 위해서라면... 개미는 일을 해야 한다. 그래서 미팅을 갔더니 전시장을 개설했다며 LG하우시스? 홈페이지처럼 전시장 도면을 클릭하면 전시장의 세부 사진이 뜨게 해 달라는 요청을 받았다.
 
-[docs]: ../docs/7.5.2/index.md
+![project2017-03](/assets/img/project2017-03.jpg)
+ LG라.. 그만큼의 돈을 주는가? No. 문제는 나에게 그 권한이 있는가? No.. 그래서 대표님한테 전화했더니 일단 알겠다며 돈을 더 받겠다고 하시더니 결국엔 그냥 해주자는 말이었다. 그래서 어설프게 LG를 따라 하기로 했다. 도면 이미지에 값을 걸어 클릭하면 해당 이미지가 뜨고 슬라이드 되며 여러 장의 모습을 볼 수 있게 말이다. 물론, 모바일에서 머리가 터지는 줄 알았다. 반응형의 단점은.. PC에 맞춰서 작업을 하고 나서 모바일에 직면하면 아... 너 왜 이렇게 디자인했어? 그때 제정신이었던 거야?라고.. 나를 욕하게 되기 때문이다. 우여곡절 끝에 프로젝트를 완수했지만.. 오픈 이후로 손대지 않는.. 그런.. 슬픈 홈페이지가 되었다는 전설을 가지고 있다..
+
+
+### Keywords
+ #맞춤형 홈페이지 #특이한 거요? #핀터레스트요? #전시장 도면을요? #프로젝트..묵혔다가 주지 맙시다..욕은 담당자만 먹어요..
+
+#### 비아트 <a href="http://biart.kr/">biart.kr</a>
