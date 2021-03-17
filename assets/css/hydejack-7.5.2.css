@@ -1,0 +1,26 @@
+---
+---
+{% capture include_to_scssify %}{% include styles/style.scss %}{% endcapture %}{% include header.txt %}{{ include_to_scssify | scssify }}
+
+/* add sidebar */
+.sidebar {color: #555;}
+.sidebar-bg {background: #fff !important;}
+.sidebar-bg.sidebar-overlay::after {background: #fff !important;}
+.sidebar a {color: #333;}
+.sidebar a:hover {border-color: #4fb1ba;}
+.sidebar-sticky {
+  position: absolute;
+  right: 1.5rem;
+  left: 2rem;
+  top: 3.5rem;
+}
+
+@media screen and (min-width: 98.5em) {
+  .sidebar-sticky {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-70%);
+  }
+
+}
