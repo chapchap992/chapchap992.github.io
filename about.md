@@ -16,7 +16,8 @@ order: 3
 >
 > Github : <a href="https://github.com/chapchap992">https://github.com/chapchap992</a>
 >
-> Website : <a href="https://github.com/chapchap992">웹사이트 바로가기</a>
+> Website : <a href="https://chapchap992.github.io/website/
+">웹사이트 바로가기</a>
 
 ## Career
 ---
