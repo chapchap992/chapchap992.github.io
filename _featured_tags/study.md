@@ -2,7 +2,7 @@
 layout: list
 title: Study
 slug: Study
-menu: ture
+menu: true
 order: 3
 description: >
    열심히...공부를 해야죠
