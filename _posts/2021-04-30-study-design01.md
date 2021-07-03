@@ -2,7 +2,7 @@
 layout: post
 title: '기획력'
 subtitle: "T 아카데미 기획"
-categories: study
+categories: Study
 tags: design
 date : 30 April 2021
 comments: false
