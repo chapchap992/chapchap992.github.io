@@ -21,7 +21,8 @@ order: 3
 
 ## Career
 ---
-> * December 04, 2017 – November 30, 2020  ezssoft 디자인팀 과장 (퇴사)
+> * April 04, 2021 ~  효성TNS 그룹정보팀 (재직)
+> * December 04, 2017 – November 30, 2020  ezssoft 디자인팀 (퇴사)
 
 ## Project
 ---
