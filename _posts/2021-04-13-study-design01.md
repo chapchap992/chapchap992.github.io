@@ -2,7 +2,7 @@
 layout: post
 title: 'T 아카데미 1강 기획과 사고력'
 subtitle: "T 아카데미 1강 기획과 사고력"
-categories: Study
+categories: study
 tags: design
 date : 30 May 2021
 comments: false
