@@ -159,9 +159,6 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
-      study:
-        permalink:         /study/:path/
-        output:            true
 
 
 # File inclusion/exclusion
