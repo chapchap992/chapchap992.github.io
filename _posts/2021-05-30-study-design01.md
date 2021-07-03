@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: 'T 아카데미 1강 기획과 사고력'
 subtitle: "T 아카데미 1강 기획과 사고력"
 categories: Study
